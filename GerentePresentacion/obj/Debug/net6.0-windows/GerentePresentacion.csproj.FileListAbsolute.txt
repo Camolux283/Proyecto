@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\GerentePresentacion\bin\Debug\net6.0-windows\GerentePresentacion.exe
+C:\Users\Usuario\source\repos\GerentePresentacion\bin\Debug\net6.0-windows\GerentePresentacion.deps.json
+C:\Users\Usuario\source\repos\GerentePresentacion\bin\Debug\net6.0-windows\GerentePresentacion.runtimeconfig.json
+C:\Users\Usuario\source\repos\GerentePresentacion\bin\Debug\net6.0-windows\GerentePresentacion.dll
+C:\Users\Usuario\source\repos\GerentePresentacion\bin\Debug\net6.0-windows\GerentePresentacion.pdb
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.FormGerente.resources
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.dll
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\refint\GerentePresentacion.dll
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.pdb
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\GerentePresentacion.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\GerentePresentacion\obj\Debug\net6.0-windows\ref\GerentePresentacion.dll

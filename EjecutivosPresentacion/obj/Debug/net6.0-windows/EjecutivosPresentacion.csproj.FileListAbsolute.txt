@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\bin\Debug\net6.0-windows\EjecutivosPresentacion.exe
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\bin\Debug\net6.0-windows\EjecutivosPresentacion.deps.json
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\bin\Debug\net6.0-windows\EjecutivosPresentacion.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\bin\Debug\net6.0-windows\EjecutivosPresentacion.dll
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\bin\Debug\net6.0-windows\EjecutivosPresentacion.pdb
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.FormEjecutivos.resources
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.dll
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\refint\EjecutivosPresentacion.dll
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.pdb
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\EjecutivosPresentacion.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjecutivosPresentacion\obj\Debug\net6.0-windows\ref\EjecutivosPresentacion.dll

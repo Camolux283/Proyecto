@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\LoginPresentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157E7361-FBF8-43F4-98A8-52DEDEA57AE1}|..\\JefeServiciosDataAcces\\JefeServiciosDataAcces.csproj|c:\\users\\usuario\\source\\repos\\jefeserviciosdataacces\\jefeserviciosconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31C680B-1C3B-40D9-A301-81AA7F2C0552}|..\\GerenteDataAcces\\GerenteDataAcces.csproj|c:\\users\\usuario\\source\\repos\\gerentedataacces\\conexiongerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2C85D9-B57E-4137-A247-1DEE6BFEE6E8}|..\\EjecutivosDataAcces\\EjecutivosDataAcces.csproj|c:\\users\\usuario\\source\\repos\\ejecutivosdataacces\\conexionejecutivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AE8065-A9C0-4B05-B117-69A2629A27A5}|..\\CamarasYRespaldosDataAcces\\CamarasYRespaldosDataAcces.csproj|c:\\users\\usuario\\source\\repos\\camarasyrespaldosdataacces\\conexioncamarasyrespaldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5AC75D-1CA8-4584-9007-D815ACFC5764}|..\\CajeroDataAcces\\CajeroDataAcces.csproj|c:\\users\\usuario\\source\\repos\\cajerodataacces\\conexioncajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E18252-5B42-4D9B-BA48-A5BC9CC3D170}|..\\LoginDataAcces\\LoginDataAcces.csproj|c:\\users\\usuario\\source\\repos\\logindataacces\\mariadbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JefeServiciosConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JefeServiciosDataAcces\\JefeServiciosConexion.cs",
+              "RelativeDocumentMoniker": "..\\JefeServiciosDataAcces\\JefeServiciosConexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JefeServiciosDataAcces\\JefeServiciosConexion.cs",
+              "RelativeToolTip": "..\\JefeServiciosDataAcces\\JefeServiciosConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:21:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionGerente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GerenteDataAcces\\ConexionGerente.cs",
+              "RelativeDocumentMoniker": "..\\GerenteDataAcces\\ConexionGerente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GerenteDataAcces\\ConexionGerente.cs",
+              "RelativeToolTip": "..\\GerenteDataAcces\\ConexionGerente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:19:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConexionCajero.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CajeroDataAcces\\ConexionCajero.cs",
+              "RelativeDocumentMoniker": "..\\CajeroDataAcces\\ConexionCajero.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CajeroDataAcces\\ConexionCajero.cs",
+              "RelativeToolTip": "..\\CajeroDataAcces\\ConexionCajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:15:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionEjecutivos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\EjecutivosDataAcces\\ConexionEjecutivos.cs",
+              "RelativeDocumentMoniker": "..\\EjecutivosDataAcces\\ConexionEjecutivos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\EjecutivosDataAcces\\ConexionEjecutivos.cs",
+              "RelativeToolTip": "..\\EjecutivosDataAcces\\ConexionEjecutivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:14:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionCamarasYRespaldos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\CamarasYRespaldosDataAcces\\ConexionCamarasYRespaldos.cs",
+              "RelativeDocumentMoniker": "..\\CamarasYRespaldosDataAcces\\ConexionCamarasYRespaldos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\CamarasYRespaldosDataAcces\\ConexionCamarasYRespaldos.cs",
+              "RelativeToolTip": "..\\CamarasYRespaldosDataAcces\\ConexionCamarasYRespaldos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:12:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MariaDBConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\LoginDataAcces\\MariaDBConexion.cs",
+              "RelativeDocumentMoniker": "..\\LoginDataAcces\\MariaDBConexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\LoginDataAcces\\MariaDBConexion.cs",
+              "RelativeToolTip": "..\\LoginDataAcces\\MariaDBConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:56:05.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

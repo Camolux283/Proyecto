@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\bin\Debug\net6.0\CamarasYRespaldosDomain.deps.json
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\bin\Debug\net6.0\CamarasYRespaldosDomain.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\bin\Debug\net6.0\CamarasYRespaldosDomain.pdb
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\bin\Debug\net6.0\CamarasYRespaldosDataAcces.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\bin\Debug\net6.0\CamarasYRespaldosDataAcces.pdb
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasY.9AA81714.Up2Date
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\refint\CamarasYRespaldosDomain.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\CamarasYRespaldosDomain.pdb
+C:\Users\Usuario\source\repos\CamarasYRespaldosDomain\obj\Debug\net6.0\ref\CamarasYRespaldosDomain.dll

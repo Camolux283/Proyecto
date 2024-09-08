@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GerentePresentacion/1.0.0": {
+        "runtime": {
+          "GerentePresentacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerentePresentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

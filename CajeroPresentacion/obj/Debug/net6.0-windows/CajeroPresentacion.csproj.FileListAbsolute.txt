@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\CajeroPresentacion\bin\Debug\net6.0-windows\CajeroPresentacion.exe
+C:\Users\Usuario\source\repos\CajeroPresentacion\bin\Debug\net6.0-windows\CajeroPresentacion.deps.json
+C:\Users\Usuario\source\repos\CajeroPresentacion\bin\Debug\net6.0-windows\CajeroPresentacion.runtimeconfig.json
+C:\Users\Usuario\source\repos\CajeroPresentacion\bin\Debug\net6.0-windows\CajeroPresentacion.dll
+C:\Users\Usuario\source\repos\CajeroPresentacion\bin\Debug\net6.0-windows\CajeroPresentacion.pdb
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.FormCajero.resources
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.dll
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\refint\CajeroPresentacion.dll
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.pdb
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\CajeroPresentacion.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CajeroPresentacion\obj\Debug\net6.0-windows\ref\CajeroPresentacion.dll

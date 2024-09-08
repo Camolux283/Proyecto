@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\bin\Debug\net6.0\CamarasYRespaldosDataAcces.deps.json
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\bin\Debug\net6.0\CamarasYRespaldosDataAcces.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\bin\Debug\net6.0\CamarasYRespaldosDataAcces.pdb
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\refint\CamarasYRespaldosDataAcces.dll
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\CamarasYRespaldosDataAcces.pdb
+C:\Users\Usuario\source\repos\CamarasYRespaldosDataAcces\obj\Debug\net6.0\ref\CamarasYRespaldosDataAcces.dll

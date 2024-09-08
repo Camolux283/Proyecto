@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CajeroPresentacion\CajeroPresentacion.csproj" />
+    <ProjectReference Include="..\CamarasYRespaldosPresentacion\CamarasYRespaldosPresentacion.csproj" />
+    <ProjectReference Include="..\EjecutivosPresentacion\EjecutivosPresentacion.csproj" />
+    <ProjectReference Include="..\GerentePresentacion\GerentePresentacion.csproj" />
+    <ProjectReference Include="..\JefeServiciosPresentacion\JefeServiciosPresentacion.csproj" />
+    <ProjectReference Include="..\LoginDomain\LoginDomain.csproj" />
+  </ItemGroup>
+
+</Project>

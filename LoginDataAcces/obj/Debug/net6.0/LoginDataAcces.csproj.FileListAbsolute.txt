@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\LoginDataAcces\bin\Debug\net6.0\LoginDataAcces.deps.json
+C:\Users\Usuario\source\repos\LoginDataAcces\bin\Debug\net6.0\LoginDataAcces.dll
+C:\Users\Usuario\source\repos\LoginDataAcces\bin\Debug\net6.0\LoginDataAcces.pdb
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.dll
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\refint\LoginDataAcces.dll
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\LoginDataAcces.pdb
+C:\Users\Usuario\source\repos\LoginDataAcces\obj\Debug\net6.0\ref\LoginDataAcces.dll
