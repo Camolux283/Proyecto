@@ -18,7 +18,6 @@ namespace JefeServiciosDataAcces
                 connection.Open();
             return connection;
         }
-
         public void CerrarConexion()
         {
             if (connection.State == System.Data.ConnectionState.Open)
